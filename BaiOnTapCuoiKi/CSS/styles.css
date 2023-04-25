@@ -1,0 +1,34 @@
+.banner {
+    width: 100%;
+}
+
+.banner img {
+    width: 100%;
+}
+
+.Wrapper {
+    padding: 20px;
+    margin: 0px;
+    border-radius: 0px;
+    list-style: none;
+}
+
+.Wrapper .button {
+    display: flex;
+}
+
+.bt-Home {
+    padding-right: 10px;
+}
+
+.thongbao {
+    color: red;
+}
+
+.modal-dialog {
+    background-color: aliceblue;
+}
+
+.MS {
+    text-align: center;
+}
